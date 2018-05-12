@@ -1,0 +1,37 @@
+_repo: Garden-Craft-Old-and-New_38829
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Russell, E. F. (Edward Francis)
+    alias: Russell, Edward Francis
+    birthdate: 1844
+    deathdate: 1925
+    gutenberg_agent_id: '43787'
+    url: http://www.gutenberg.org/2009/agents/43787
+covers:
+- cover_type: archival
+  image_path: 38829-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sedding, John Dando
+    alias: Sedding, John D.
+    birthdate: 1838
+    deathdate: 1891
+    gutenberg_agent_id: '39672'
+    url: http://www.gutenberg.org/2009/agents/39672
+description: ''
+gutenberg_issued: '2012-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38829'
+  lccn: 01019225
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gardens'
+- !lcsh 'Landscape architecture'
+- !lcc 'SB'
+title: Garden-Craft Old and New
+url: http://www.gutenberg.org/ebooks/38829
